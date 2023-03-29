@@ -1,0 +1,17 @@
+C:\Projetos\Code-Challenge\src\Infrastructure\Code-Challenge.Infrastructure\bin\Debug\net7.0\Code-Challenge.Infrastructure.deps.json
+C:\Projetos\Code-Challenge\src\Infrastructure\Code-Challenge.Infrastructure\bin\Debug\net7.0\Code-Challenge.Infrastructure.dll
+C:\Projetos\Code-Challenge\src\Infrastructure\Code-Challenge.Infrastructure\bin\Debug\net7.0\Code-Challenge.Infrastructure.pdb
+C:\Projetos\Code-Challenge\src\Infrastructure\Code-Challenge.Infrastructure\bin\Debug\net7.0\Code-Challenge.Application.dll
+C:\Projetos\Code-Challenge\src\Infrastructure\Code-Challenge.Infrastructure\bin\Debug\net7.0\Code-Challenge.Domain.dll
+C:\Projetos\Code-Challenge\src\Infrastructure\Code-Challenge.Infrastructure\bin\Debug\net7.0\Code-Challenge.Application.pdb
+C:\Projetos\Code-Challenge\src\Infrastructure\Code-Challenge.Infrastructure\bin\Debug\net7.0\Code-Challenge.Domain.pdb
+C:\Projetos\Code-Challenge\src\Infrastructure\Code-Challenge.Infrastructure\obj\Debug\net7.0\Code-Challenge.Infrastructure.csproj.AssemblyReference.cache
+C:\Projetos\Code-Challenge\src\Infrastructure\Code-Challenge.Infrastructure\obj\Debug\net7.0\Code-Challenge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Code-Challenge\src\Infrastructure\Code-Challenge.Infrastructure\obj\Debug\net7.0\Code-Challenge.Infrastructure.AssemblyInfoInputs.cache
+C:\Projetos\Code-Challenge\src\Infrastructure\Code-Challenge.Infrastructure\obj\Debug\net7.0\Code-Challenge.Infrastructure.AssemblyInfo.cs
+C:\Projetos\Code-Challenge\src\Infrastructure\Code-Challenge.Infrastructure\obj\Debug\net7.0\Code-Challenge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projetos\Code-Challenge\src\Infrastructure\Code-Challenge.Infrastructure\obj\Debug\net7.0\Code-Challenge.Infrastructure.csproj.CopyComplete
+C:\Projetos\Code-Challenge\src\Infrastructure\Code-Challenge.Infrastructure\obj\Debug\net7.0\Code-Challenge.Infrastructure.dll
+C:\Projetos\Code-Challenge\src\Infrastructure\Code-Challenge.Infrastructure\obj\Debug\net7.0\refint\Code-Challenge.Infrastructure.dll
+C:\Projetos\Code-Challenge\src\Infrastructure\Code-Challenge.Infrastructure\obj\Debug\net7.0\Code-Challenge.Infrastructure.pdb
+C:\Projetos\Code-Challenge\src\Infrastructure\Code-Challenge.Infrastructure\obj\Debug\net7.0\ref\Code-Challenge.Infrastructure.dll

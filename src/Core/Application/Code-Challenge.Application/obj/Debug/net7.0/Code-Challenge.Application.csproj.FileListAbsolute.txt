@@ -1,0 +1,15 @@
+C:\Projetos\Code-Challenge\src\Core\Application\Code-Challenge.Application\bin\Debug\net7.0\Code-Challenge.Application.deps.json
+C:\Projetos\Code-Challenge\src\Core\Application\Code-Challenge.Application\bin\Debug\net7.0\Code-Challenge.Application.dll
+C:\Projetos\Code-Challenge\src\Core\Application\Code-Challenge.Application\bin\Debug\net7.0\Code-Challenge.Application.pdb
+C:\Projetos\Code-Challenge\src\Core\Application\Code-Challenge.Application\bin\Debug\net7.0\Code-Challenge.Domain.dll
+C:\Projetos\Code-Challenge\src\Core\Application\Code-Challenge.Application\bin\Debug\net7.0\Code-Challenge.Domain.pdb
+C:\Projetos\Code-Challenge\src\Core\Application\Code-Challenge.Application\obj\Debug\net7.0\Code-Challenge.Application.csproj.AssemblyReference.cache
+C:\Projetos\Code-Challenge\src\Core\Application\Code-Challenge.Application\obj\Debug\net7.0\Code-Challenge.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Code-Challenge\src\Core\Application\Code-Challenge.Application\obj\Debug\net7.0\Code-Challenge.Application.AssemblyInfoInputs.cache
+C:\Projetos\Code-Challenge\src\Core\Application\Code-Challenge.Application\obj\Debug\net7.0\Code-Challenge.Application.AssemblyInfo.cs
+C:\Projetos\Code-Challenge\src\Core\Application\Code-Challenge.Application\obj\Debug\net7.0\Code-Challenge.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\Code-Challenge\src\Core\Application\Code-Challenge.Application\obj\Debug\net7.0\Code-Challenge.Application.csproj.CopyComplete
+C:\Projetos\Code-Challenge\src\Core\Application\Code-Challenge.Application\obj\Debug\net7.0\Code-Challenge.Application.dll
+C:\Projetos\Code-Challenge\src\Core\Application\Code-Challenge.Application\obj\Debug\net7.0\refint\Code-Challenge.Application.dll
+C:\Projetos\Code-Challenge\src\Core\Application\Code-Challenge.Application\obj\Debug\net7.0\Code-Challenge.Application.pdb
+C:\Projetos\Code-Challenge\src\Core\Application\Code-Challenge.Application\obj\Debug\net7.0\ref\Code-Challenge.Application.dll

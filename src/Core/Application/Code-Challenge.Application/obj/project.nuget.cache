@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z+AQNPkac/+wmmYspoi9Yeg1esCbAPB8nDAthWkOzyO+/7iusWBO3gm3yo1HJs76acQeqZ2wJpCQS/QmDfu52Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Code-Challenge\\src\\Core\\Application\\Code-Challenge.Application\\Code-Challenge.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guita\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
